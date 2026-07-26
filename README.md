@@ -1,50 +1,58 @@
-# Hi 👋, I'm Abubakr Kazi
+<h1 align="center">
+  Hi 👋, I'm Abubakr Kazi
+</h1>
 
-### Full Stack Engineer | React.js | Next.js | TypeScript | Node.js
+<h3 align="center">
+Full Stack Engineer | React.js • Next.js • TypeScript • Node.js
+</h3>
 
-I am a Full Stack Engineer passionate about building modern web applications with clean architecture, scalable solutions, and great user experiences.
-
-I enjoy turning ideas into real-world products and continuously improving my skills through building, learning, and solving problems.
+<p align="center">
+Building scalable web applications with modern technologies, clean architecture, and great user experiences.
+</p>
 
 
 ## 👨‍💻 About Me
 
-- 🚀 Full Stack Developer focused on JavaScript & TypeScript ecosystem
-- 💻 Building applications with React, Next.js, Node.js and PostgreSQL
+I'm a Full Stack Engineer passionate about building modern web applications that solve real-world problems.
+
+I focus on writing clean, maintainable code and creating scalable solutions using the JavaScript and TypeScript ecosystem.
+
+- 🚀 Building full-stack applications with modern technologies
+- 💻 Working with React, Next.js, Node.js and PostgreSQL
 - 🌱 Currently exploring backend architecture, system design and cloud technologies
-- 🧩 Interested in scalable applications and developer-friendly solutions
-- 🎯 My goal is to grow as a professional software engineer and contribute to impactful projects
-- 📍 Based in Dhaka, Bangladesh
+- 🧩 Interested in scalable software solutions and software engineering practices
+- 🎯 Goal: Grow as a professional software engineer and contribute to impactful projects
+- 📍 Dhaka, Bangladesh
 
 
-## 🛠️ Technologies & Tools
+## 🛠️ Tech Stack
 
 
 ### Frontend Development
 
 <p>
-  React.js • Next.js • TypeScript • JavaScript • Tailwind CSS
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css" />
 </p>
 
 
 ### Backend Development
 
 <p>
-  Node.js • Express.js • REST API • Prisma ORM
+<img src="https://skillicons.dev/icons?i=nodejs,express,prisma" />
 </p>
 
 
 ### Database
 
 <p>
-  PostgreSQL • MongoDB
+<img src="https://skillicons.dev/icons?i=postgres,mongodb" />
 </p>
 
 
-### Development Tools
+### Tools & Platforms
 
 <p>
-  Git • GitHub • VS Code • Postman • Docker
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman,vercel" />
 </p>
 
 
@@ -53,31 +61,55 @@ I enjoy turning ideas into real-world products and continuously improving my ski
 
 ### 🌱 KrishiBazar AI
 
-An AI-powered platform designed to help farmers with smart agricultural solutions.
+An AI-powered agricultural platform designed to help farmers with smart digital solutions.
 
 **Highlights:**
+
 - AI-based assistance
 - Farmer-focused features
 - Modern web architecture
 
 **Tech Stack:**
+
 React.js • Node.js • PostgreSQL • AI
 
 
 ---
 
 
-### 🛒 E-Commerce Platform
+### 🏥 AI-Powered Hospital Management System
 
-A full-stack e-commerce application with modern UI and backend functionality.
+A modern healthcare management platform focused on improving hospital operations through digital solutions.
 
 **Features:**
-- Product management
-- Authentication
-- Shopping workflow
-- API integration
+
+- Patient management
+- Doctor management
+- Appointment system
+- Secure authentication
+- Dashboard analytics
 
 **Tech Stack:**
+
+React.js • TypeScript • Node.js • PostgreSQL
+
+
+---
+
+
+### 🛒 Full Stack E-Commerce Platform
+
+A complete e-commerce application with modern UI and backend functionality.
+
+**Features:**
+
+- Product management
+- User authentication
+- Shopping workflow
+- REST API integration
+
+**Tech Stack:**
+
 React.js • Node.js • PostgreSQL
 
 
@@ -86,28 +118,31 @@ React.js • Node.js • PostgreSQL
 
 ### 🚗 Vehicle Rental System API
 
-A backend-focused vehicle rental management system built with scalable API architecture.
+A backend-focused rental management system built with scalable API architecture.
 
 **Features:**
+
 - RESTful API
-- Authentication
+- Authentication system
 - Database management
 - Modular backend structure
 
 **Tech Stack:**
+
 Node.js • Express.js • PostgreSQL • Prisma
 
 
-## 📈 GitHub Activity
+
+## 📊 GitHub Stats
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abubakrkazi&show_icons=true&theme=github_dark" />
+<img src="https://github-readme-stats.vercel.app/api?username=Abubakrkazi&show_icons=true&theme=transparent" />
 </p>
 
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Abubakrkazi&theme=github-dark-blue" />
+<img src="https://streak-stats.demolab.com/?user=Abubakrkazi&theme=transparent" />
 </p>
 
 
@@ -117,15 +152,30 @@ Node.js • Express.js • PostgreSQL • Prisma
 - System Design
 - Cloud Deployment
 - Software Architecture
+- DevOps Practices
 
 
-## 🤝 Let's Connect
+## 🤝 Connect With Me
 
-I am always interested in discussing software development, technology, and new opportunities.
 
-- LinkedIn: Your LinkedIn URL
-- Portfolio: Your Portfolio URL
-- Email: Your Email
+<p align="left">
 
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://skillicons.dev/icons?i=vercel" />
+</a>
+
+</p>
+
+
+📧 Email: YOUR_EMAIL
+
+
+---
 
 ⭐ Thanks for visiting my profile!
+
+Let's build something amazing together 🚀
