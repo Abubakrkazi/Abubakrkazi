@@ -171,7 +171,7 @@ Node.js • Express.js • PostgreSQL • Prisma
 </p>
 
 
-📧 Email: kazibubakr41@gmail.com
+📧 Email:kaziabubakr41@gmail.com
 
 
 ---
